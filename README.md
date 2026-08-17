@@ -69,7 +69,4 @@ A continuación se detallan los aportes y cambios más importantes registrados e
 * **`feat: estructura inicial y carpeta docs`** - Creó las carpetas principales y agrego la carpeta docs.
 
 ### Edgar Josué Hernández González
-* **`feat: agrego los archvios index y el readme`** - Agrego index.html, portal-docente-uees.html y el readme para nuestro repo.
-
-### Jacqueline Alicia Bolaños Ramos
-* **`feat: Agrego la carpeta src`** - En assets agrego dos imagenes del logotipo uees, una para la pantalla de inicio de sesion y otra parael portal.
+* **`feat: Agrega README y archivos del portal docente`** - Agrego README, y los archivos del portal docente.

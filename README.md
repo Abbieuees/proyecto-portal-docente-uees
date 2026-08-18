@@ -31,7 +31,7 @@ Nuestra propuesta de Rediseño se basa en identificar el problema, proponer una 
 * [Diseño Figma-enlace 1](https://www.figma.com/design/hnwQZIRM9wi5lQbc7s2ioR/VISTA_ESCRITORIO-PANEL_DEL_DOCENTE?node-id=0-1&t=S3U0D7XDbBcPuSsX-1)
 * [Diseño Figma-enlace 2](https://www.figma.com/design/eJtp9CFvW0IV0CZD9XK6H3/VISTA_MOVIL-CARGA_DE_NOTAS?t=S3U0D7XDbBcPuSsX-1)
 * [Diseño Figma-enlace 3](https://www.figma.com/design/4r1xBhbMcZVNK4xkgwPyXX/VISTA_MOVIL-PANEL_DEL_DOCENTE?t=S3U0D7XDbBcPuSsX-1)
-* [Documentación]([https://docs.google.com/document/d/1w_-eG9C09T1-OttrbtoC7nnS5C-Hav1dtnrgez5dK54/edit?usp=sharing])
+* [Documentación](https://docs.google.com/document/d/1w_-eG9C09T1-OttrbtoC7nnS5C-Hav1dtnrgez5dK54/edit?usp=sharing)
 
 ---
 
